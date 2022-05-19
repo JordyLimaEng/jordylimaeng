@@ -1,6 +1,6 @@
 # Oi, sou o Jordy! Bem vindo ao meu perfil 👋
-- 💻 Trabalhando atualmente com Java 8, Spring, HTML, CSS, Oracle Database, Consumo de Api's RestFul.
-- 🌱 Em constante curiosidade em aprender tecnologias em uso do mercado, alguns projetinhos podem ser encontrados nesse repo (só não atenta que alguns podem ser inacabados haha ¯\\_(ツ)_/¯)
+- 💻 Trabalhando atualmente com Java 8, Spring, Angular, Oracle Database e Consumo de Api's RestFul.
+- 🌱 Em constante curiosidade em aprender tecnologias em uso do mercado.
 ##
   
   <div style="display: inline_block"><br>
