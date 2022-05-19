@@ -2,11 +2,6 @@
 - 💻 Trabalhando atualmente com Java 8, Spring, HTML, CSS, Oracle Database, Consumo de Api's RestFul.
 - 🌱 Em constante curiosidade em aprender tecnologias em uso do mercado, alguns projetinhos podem ser encontrados nesse repo (só não atenta que alguns podem ser inacabados haha ¯\\_(ツ)_/¯)
 ##
- <div>
-  <a href="https://github.com/JordyLimaEng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordyLimaEng&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyLimaEng&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
