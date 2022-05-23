@@ -1,6 +1,5 @@
-# Oi, sou o Jordy! Bem vindo ao meu perfil 👋
-- 💻 Trabalhando atualmente com Java 8, Spring, Angular, Oracle Database e Consumo de Api's RestFul.
-- 🌱 Em constante curiosidade em aprender tecnologias em uso do mercado.
+# Hi, i'm Jordy! Welcome. 👋
+- 💻 Currently working with Java, Spring, Angular, Oracle Database and Api's RestFul.
 ##
   
   <div style="display: inline_block"><br>
@@ -16,7 +15,7 @@
 </div>
   
 ##
-### Sinta-se a vontade para entrar em contato via minhas redes sociais:
+### Be free to reach me in my socials media:
 <div>
   <a href="https://www.youtube.com/channel/UCwLERMtLGMArP0J8kBixFQA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/paaraiba" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
