@@ -1,5 +1,5 @@
 # Hi, i'm Jordy! Welcome. 👋
-- 💻 Currently working with Java, Spring, PLSQL and Api's RestFul.
+
 ##
   * Most used languages:
   <div style="display: inline_block"><br>
